@@ -4,6 +4,7 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea
+*.DotSettings.user
 
 # Project specific
 input.txt
